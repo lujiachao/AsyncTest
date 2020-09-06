@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace AsyncTest
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
